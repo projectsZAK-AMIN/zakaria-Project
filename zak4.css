@@ -1,0 +1,51 @@
+
+body{
+     
+     font font-family: arial;
+	background-color:#4a69bd;
+}
+
+
+h1{
+ border: 2px solid blue;
+ border-radius:5px;
+
+ background-color:#78e08f; 
+ background-size:50px;
+ text-align: center;
+ font-family: verdana;
+ font-size: 300%;
+}
+
+
+p{
+    font-family: arial;
+	text-align: left;
+    font-size: 20px;
+    background-color:;
+}
+
+.zakk{
+	font-family: arial;
+	
+	text-align:center;
+    font-size: 20px;
+}
+
+.zakk:hover{
+    border: 1px solid black;
+    
+}
+
+
+
+
+h3{
+    font-size: 35px;
+	font-family: arial;
+	text-align: center;
+    background-color: #78e08f;
+
+
+
+}

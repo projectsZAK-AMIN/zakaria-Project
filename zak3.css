@@ -1,0 +1,79 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+border: 2px solid blue;
+border-radius:5px;
+
+}
+
+
+
+.rowd-nav{  
+	float: right;
+         margin-top: 30px;
+         list-style: none;
+   }
+
+
+.rowd-nav li{
+
+  display:inline-block;
+
+}
+
+
+.rowd-nav li a{
+	
+	 color: black;
+        text-decoration: none;
+        padding: 15px 20px;
+        font-family: arial;
+    }
+ 
+
+
+ .rowd-nav li.zakaria a:hover{
+    border: 1px solid black;
+
+}
+
+.row-nav li.hhh     a{
+
+
+border: 1px solid black;
+
+
+}
+
+.row-nav li.hhhh      a{
+
+
+border: 1px solid black;
+
+
+
+}
+
+.row-nav li.hhhhh    a{
+
+
+border: 1px solid black;
+
+
+
+}
+
+
+
+
+
+
+ .row{
+
+ max-width:1200px;
+     margin:auto;
+}
+

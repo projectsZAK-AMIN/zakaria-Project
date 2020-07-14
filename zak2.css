@@ -1,0 +1,91 @@
+body{
+
+       background-color:#4a69bd;
+       height: 100vh;
+       background-size: cover;
+       background-position: center;
+
+}
+h1{
+	font-size: 50px;
+	border:1px solid black;
+  background-color:#78e08f;
+}
+.logo img {
+                      
+ width: 150px;
+ height: auto;
+ float: left;
+
+}
+#zico{
+  text-align:center;
+  color: black;
+  
+  font-family:times;serif;
+}
+
+
+#zika{
+ color:black;
+ text-align:center;
+
+}
+
+
+h2{
+
+	font-size: 40px;
+  
+}
+
+
+
+
+p{
+   font-family:arial;
+   font-size:25px;
+
+}
+
+
+.hh{
+
+font-size: 25px
+font-family:arial;
+
+
+}
+
+#follow img {
+background-color:black;                    
+ width:50px;
+ height:50px;
+ margin-left:7px;
+ margin-right:7px;
+
+}
+
+#follow img:hover{
+  opacity: 1;
+}
+
+#follow {
+text-align:center;
+
+}
+
+
+
+
+.zak{
+ border: 2px solid blue;
+ border-radius:5px;
+ font-size: 30px;
+ background-color: powderblue;
+}
+.zak {
+
+  padding: 30px;
+}
+
